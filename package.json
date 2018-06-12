@@ -1,0 +1,20 @@
+{
+  "name": "test_ing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvradip/test_ing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvradip/test_ing/issues"
+  },
+  "homepage": "https://github.com/suvradip/test_ing#readme"
+}
